@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\x\\Desktop\\C#_Ornek\\Ders1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8F15FA-AA10-4585-9830-38D190E63D3A}|Ders1\\Ders1.csproj|c:\\users\\x\\desktop\\c#_ornek\\ders1\\ders1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8F15FA-AA10-4585-9830-38D190E63D3A}|Ders1\\Ders1.csproj|solutionrelative:ders1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\x\\Desktop\\C#_Ornek\\Ders1\\Ders1\\Program.cs",
+              "RelativeDocumentMoniker": "Ders1\\Program.cs",
+              "ToolTip": "C:\\Users\\x\\Desktop\\C#_Ornek\\Ders1\\Ders1\\Program.cs",
+              "RelativeToolTip": "Ders1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:05:07.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
